@@ -33,7 +33,7 @@
 2.  Install RogueLibs:
     1.  [Download the latest version of RogueLibs](https://github.com/Abbysssal/RogueLibs/releases/latest);
     2.  Drag the file "RogueLibs.dll" into directory /Steam/SteamApps/common/Streets of Rogue/BepInEx/plugins;
-3.  [Download the latest version of Strange Meals](https://github.com/zTBBz/MTP/releases/latest);
+3.  [Download the latest version of More Traits Please](https://github.com/zTBBz/MTP/releases/latest);
 4.  Drag the file "MTP.dll" into directory /Steam/SteamApps/common/Streets of Rogue/BepInEx/plugins;
 5.  Done! Now run the game and enjoy!
 
