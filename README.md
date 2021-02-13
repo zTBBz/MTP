@@ -19,7 +19,7 @@
   </p>
 </div>
 
-## MTP (More Traits Please) ##
+## More Traits Please (MTP) ##
 
 ## Links ##
 *  [Download MTP](https://github.com/zTBBz/MTP/releases)
