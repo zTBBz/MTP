@@ -21,7 +21,7 @@
 
 ## More Traits Please (MTP) ##
 
-## MTP moved here: ## [CLick!](https://github.com/zTBBz/TBB)
+## MTP moved here: [Click!](https://github.com/zTBBz/TBB)
 
 ## Links ##
 *  [Download MTP](https://github.com/zTBBz/MTP/releases)
